@@ -3,7 +3,7 @@ import Axios from "axios";
 import MovieComponent from "./components/MovieComponent";
 import MovieInfoComponent from "./components/MovieInfoComponent";
 
-export const API_KEY = "a9118a3a";
+export const API_KEY = "d228d743";
 
 function App() {
   const [searchQuery, updateSearchQuery] = useState("");
